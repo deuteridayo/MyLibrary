@@ -2,7 +2,7 @@
 
 [deuteridayo](https://atcoder.jp/users/deuteridayo)の競技プログラミング用のC++ライブラリです。
 
-BAN対策で公開してるだけですが勝手に使っても特に問題ないです
+BAN対策で公開してるだけですがC勝手に使っても特に問題ないです(CC0なので)
 
 ## ライセンス
 
