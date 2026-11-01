@@ -1,6 +1,8 @@
 # MyLibrary
 
-競技プログラミング用のC++ライブラリです。
+[deuteridayo](https://atcoder.jp/users/deuteridayo)の競技プログラミング用のC++ライブラリです。
+
+BAN対策で公開してるだけですが勝手に使っても特に問題ないです
 
 ## ライセンス
 
